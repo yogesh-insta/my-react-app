@@ -1,5 +1,10 @@
 # React App + NGINX + Docker-compose + CI/CD pipeline (Travis and Github) + AWS ElasticBeanStalk
 
+**Stack:** React, NGINX, Docker Compose, Travis CI, Elastic Beanstalk
+
+**Skills:** Containerized frontends, CI/CD
+
+
 ### create react application using following command 
 
 `npx create-react-app my-react-app`
